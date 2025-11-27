@@ -1,2 +1,2 @@
 # Quail_Patterning
-Scripts used to generate the figures in Quail_Patterning project
+Scripts to generate the simulation results in Zhou et al. 2025
